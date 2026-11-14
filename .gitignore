@@ -1,0 +1,14 @@
+# build artefakti - generisu se iz izvora
+build/
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE / OS fajlovi
+.vscode/
+.settings/
+.DS_Store
